@@ -8,7 +8,10 @@ model_v2.py:
    - cell: three compartment model for a barrier cell layer 
  - fit : generic fitting procedure
 
-fit.py: helper functions to analyze experimental data
+sampling_correction.ipynb: example usage (jupyter notebook)
+
+fit.py: 
+ - helper functions (from sampling_correction.ipynb) to analyze experimental data
  - read_data: custom import function to load sample sequences
-   
+
   
